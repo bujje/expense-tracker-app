@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147562077679",
+    "project_id": "spendee-ff8d0",
+    "storage_bucket": "spendee-ff8d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147562077679:android:bab89a9f385a4116f4ea1a",
+        "android_client_info": {
+          "package_name": "com.example.expenses_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFhOng3U2puvqCYA7pbcQawC-3b5wdvPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
